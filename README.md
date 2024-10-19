@@ -49,3 +49,4 @@ export default tseslint.config({
 })
 ```
 react-django
+cambio daño critico
